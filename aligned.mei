@@ -964,8 +964,8 @@
 							</staff>
 							<staff facs="#zone_22f6af13-0c44-4e04-84ee-9fa17e6931be" label="3" n="3" xml:id="staff_6701cc12-2e22-43d5-984c-9c7c56db8860">
 								<layer>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="3" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="3" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_f05f89ef-5d78-4811-a5f8-9b41dcc34c68" label="4" n="4" xml:id="staff_245486d3-f075-4635-ab56-2a702f664323">
