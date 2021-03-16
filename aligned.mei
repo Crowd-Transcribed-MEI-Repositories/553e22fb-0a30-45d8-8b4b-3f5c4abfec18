@@ -929,7 +929,7 @@
 							</staff>
 							<staff facs="#zone_6166979c-bff6-4431-817d-a0df6420d7c4" label="3" n="3" xml:id="staff_7ed717dd-4ead-4bae-b318-b77abccbed89">
 								<layer>
-									<note dots="1" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="3" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_ccd12414-f318-4c14-91bc-43e3907e3854" label="4" n="4" xml:id="staff_7b2d6365-852c-4937-9baa-68095e9037a0">
