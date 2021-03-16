@@ -773,11 +773,11 @@
 						<measure label="12" n="12" xml:id="measure_fa27f5bc-1f57-4ff1-96ed-8c39df8d16b6">
 							<staff facs="#zone_bb76c7e1-1070-40d1-85fa-c65d8f362bfd" label="1" n="1" xml:id="staff_cd052442-b1c2-43fc-9484-fb355d57bd97">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="f" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_812cae0b-8890-4d96-906c-ac29831a7339" label="2" n="2" xml:id="staff_958ed868-27db-4b9f-8e18-ffaf3bbdc76a">
