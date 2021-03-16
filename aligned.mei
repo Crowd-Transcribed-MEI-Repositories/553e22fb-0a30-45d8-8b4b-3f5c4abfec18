@@ -176,6 +176,10 @@
 							<staff facs="#zone_c1b28067-7894-4968-84c9-1806d637f08b" label="2" n="2" xml:id="staff_c8df2e09-2019-4fb0-b56b-42b1e0dd0957">
 								<layer>
 									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_9106d51b-63b2-462c-91f3-94da6983c281" label="3" n="3" xml:id="staff_c09b67fa-9487-4b7d-9a50-bc840b675166">
