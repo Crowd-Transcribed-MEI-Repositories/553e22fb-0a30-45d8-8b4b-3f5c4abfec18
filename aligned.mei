@@ -494,7 +494,13 @@
 						</measure>
 						<measure label="13" n="13" xml:id="measure_fd6b3877-4400-4fcd-8e45-3da81334de87">
 							<staff facs="#zone_75207d23-e30b-402b-82be-05df927141ee" label="1" n="1" xml:id="staff_c5736cb8-56be-4321-8d7b-429bf5146123">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_dce538ea-c010-464a-87b2-ba040b1f3544" label="2" n="2" xml:id="staff_71e1e619-91eb-4590-bcee-1dba51886162">
 								<layer/>
