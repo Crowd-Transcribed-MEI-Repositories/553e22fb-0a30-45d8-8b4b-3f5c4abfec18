@@ -703,7 +703,7 @@
 						<measure label="10" n="10" xml:id="measure_998b37f1-c39a-4f81-84e9-187795a2b5dc">
 							<staff facs="#zone_9d607b94-1938-4762-993c-8e34ace2da0b" label="1" n="1" xml:id="staff_f898e6e6-a5a9-417e-86d0-cf022874683e">
 								<layer>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="5" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_915efbcb-397e-4250-a3f6-4e18bc78138d" label="2" n="2" xml:id="staff_3e1826ca-adb6-4427-851f-ce18eab463bd">
