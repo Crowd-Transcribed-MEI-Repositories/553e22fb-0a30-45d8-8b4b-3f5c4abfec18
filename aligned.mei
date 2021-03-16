@@ -155,11 +155,12 @@
 						</staffGrp>
 					</scoreDef>
 					<section>
+						<measure label="8" n="8" xml:id="measure_8e648b21-f927-43f5-bef1-28dc6a0713bf"/>
 						<measure label="9" n="9" xml:id="measure_259f9b5a-b4fe-4b3a-818d-6b03e5258b96"/>
 						<measure label="10" n="10" xml:id="measure_998b37f1-c39a-4f81-84e9-187795a2b5dc"/>
 						<scoreDef>
 							<staffGrp>
-								<staffDef meter.sym="common" n="3"/>
+								<staffDef meter.count="3" meter.unit="4" n="3"/>
 								<staffDef meter.count="3" meter.unit="4" n="2"/>
 								<staffDef meter.count="3" meter.unit="4" n="1"/>
 							</staffGrp>
