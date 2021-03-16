@@ -939,7 +939,7 @@
 							</staff>
 							<staff facs="#zone_3f34e74b-ed1b-4cbb-8849-453712155877" label="5" n="5" xml:id="staff_e9760652-54e1-475e-a433-7a61ca107970">
 								<layer>
-									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_16616898-e083-4318-ac8d-9dacc51567f5" label="6" n="6" xml:id="staff_a1c94923-226a-47db-856e-796c856bc372">
