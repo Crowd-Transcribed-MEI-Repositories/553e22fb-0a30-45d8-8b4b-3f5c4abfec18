@@ -604,7 +604,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_831b4de9-c28a-4dbd-85aa-aba453f447eb" label="3" n="3" xml:id="staff_6a2d9691-79ed-43d4-8205-64a8be3f526f">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_ceff2193-da2c-4dd0-90e9-ad0a68a57875" label="4" n="4" xml:id="staff_9e340cf6-f709-405b-b7c0-bb2b973caffc">
 								<layer/>
