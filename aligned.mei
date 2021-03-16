@@ -798,7 +798,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_b1823b80-4892-453a-982d-eeae5fd009ae" label="6" n="6" xml:id="staff_1c0fac9a-9783-480b-a864-602c8d1d130c">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="14" n="14" xml:id="measure_a14ce806-8ac7-4477-8aca-74793c589d57">
