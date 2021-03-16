@@ -602,12 +602,12 @@
 							<staff facs="#zone_80a8a2ea-0483-48c0-ba35-346bf2b42a33" label="4" n="4" xml:id="staff_5ae20413-cba5-4519-8907-a711d1feaa0b">
 								<layer>
 									<clef line="4" shape="F" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="3" pname="f" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_5d7e87d2-0e10-45e9-a0f7-62ead4e65c4a" label="5" n="5" xml:id="staff_8fc3db96-0e9f-4f08-8f91-72854b79168a">
