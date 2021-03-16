@@ -201,7 +201,12 @@
 						</measure>
 						<measure label="2" n="2" xml:id="measure_14693964-9c6e-4672-a401-bb8c53d2e9f8">
 							<staff facs="#zone_32cb21c6-9107-4e7f-a5ed-ed79995770fe" label="1" n="1" xml:id="staff_5adf0fa9-150c-4832-a55e-69d311410d3b">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_6f500a3c-4180-42cb-ac3a-6e0afaa0a888" label="2" n="2" xml:id="staff_edf4e826-ad82-4ef5-a440-9217fe5e5dcd">
 								<layer/>
