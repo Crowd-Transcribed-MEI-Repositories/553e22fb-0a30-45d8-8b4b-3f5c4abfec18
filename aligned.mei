@@ -317,7 +317,14 @@
 						</measure>
 						<measure label="7" n="7" xml:id="measure_10af9f18-f277-41b9-95c4-1b50aa0d48be">
 							<staff facs="#zone_9b0ec1ea-0dad-4b50-b197-123750a9b731" label="1" n="1" xml:id="staff_76e0cfe1-ea07-40c1-a913-4acc2f984b80">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_4573b678-d328-4289-a15c-a7fcff1c0288" label="2" n="2" xml:id="staff_3f5b88b6-afe3-4568-9daa-3379a19cea00">
 								<layer/>
