@@ -690,7 +690,11 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_9d764c61-3a9a-48a8-a284-5b9a1d6e286d" label="3" n="3" xml:id="staff_510c7e13-83f8-4066-807d-8779597425e8">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_fa385011-246b-4080-8982-a44243862315" label="4" n="4" xml:id="staff_54932ffd-a4b0-4666-9d7a-b3307ce14cc2">
 								<layer/>
