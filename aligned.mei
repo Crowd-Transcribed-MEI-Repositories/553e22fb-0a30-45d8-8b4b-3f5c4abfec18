@@ -162,7 +162,7 @@
 								<staffDef meter.count="3" meter.unit="4" n="5"/>
 								<staffDef meter.count="3" meter.unit="4" n="4"/>
 								<staffDef meter.count="3" meter.unit="4" n="3"/>
-								<staffDef meter.count="3" meter.unit="4" n="2"/>
+								<staffDef key.sig="1f" key.sig.show="true" meter.count="3" meter.unit="4" n="2"/>
 								<staffDef key.sig="1f" key.sig.show="true" n="1"/>
 							</staffGrp>
 						</scoreDef>
