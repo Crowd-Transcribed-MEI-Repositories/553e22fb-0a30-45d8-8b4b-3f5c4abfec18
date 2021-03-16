@@ -742,7 +742,7 @@
 							</staff>
 							<staff facs="#zone_f05b5c61-3dc8-4c67-9ac0-0c4aaa2a09cd" label="2" n="2" xml:id="staff_d54e88af-16a0-491f-a082-a3886c14cd6d">
 								<layer>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_07d107b2-9cd0-40fb-87aa-fe746764edbf" label="3" n="3" xml:id="staff_5aa281cb-0737-4423-a798-20f261976545">
