@@ -1000,9 +1000,9 @@
 							</staff>
 							<staff facs="#zone_3bd43c49-aa03-4730-9e52-dfb076f84166" label="3" n="3" xml:id="staff_e8e3e06e-cb48-4ec1-b1cf-05bbc75a7c8d">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="2" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_6a113eae-afc3-490e-bb5c-289a9b053d19" label="4" n="4" xml:id="staff_4c16caf0-a62a-4eef-a8ec-72b5fc4c45ba">
