@@ -917,9 +917,9 @@
 						<measure label="16" n="16" xml:id="measure_35191b83-7570-4b3b-87f4-00305559fb1d">
 							<staff facs="#zone_bd8bf697-1071-4e6c-bdf1-7780dbfde82c" label="1" n="1" xml:id="staff_5d783c8f-3272-4fbe-a90e-995e3567874a">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_ca713869-23a6-4b3e-830d-bf93e4e0f1c3" label="2" n="2" xml:id="staff_d16829ff-08e1-43c9-84a9-ed9f68ad6369">
