@@ -155,6 +155,7 @@
 						</staffGrp>
 					</scoreDef>
 					<section>
+						<measure label="6" n="6" xml:id="measure_f4241439-e777-401e-9395-06c796fa3281"/>
 						<measure label="7" n="7" xml:id="measure_10af9f18-f277-41b9-95c4-1b50aa0d48be"/>
 						<scoreDef>
 							<staffGrp>
@@ -162,7 +163,7 @@
 								<staffDef meter.count="3" meter.unit="4" n="5"/>
 								<staffDef meter.count="3" meter.unit="4" n="4"/>
 								<staffDef meter.count="3" meter.unit="4" n="3"/>
-								<staffDef key.sig="1f" key.sig.show="true" meter.count="3" meter.unit="4" n="2"/>
+								<staffDef key.sig="1f" key.sig.show="true" n="2"/>
 								<staffDef key.sig="1f" key.sig.show="true" n="1"/>
 							</staffGrp>
 						</scoreDef>
