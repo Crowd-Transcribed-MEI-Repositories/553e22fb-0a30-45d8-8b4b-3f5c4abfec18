@@ -687,7 +687,15 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_ad640309-af59-4a19-9e2e-0d90b915bf83" label="6" n="6" xml:id="staff_30eed105-201a-4f12-b692-177ecb253938">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="10" n="10" xml:id="measure_998b37f1-c39a-4f81-84e9-187795a2b5dc">
