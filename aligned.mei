@@ -951,9 +951,9 @@
 						<measure label="17" n="17" xml:id="measure_2b39b2bc-8ae6-4fac-80f0-c0172d8863b9">
 							<staff facs="#zone_91b7207f-e592-4d0f-bbc7-9d1bca53ff18" label="1" n="1" xml:id="staff_6db9ba1b-e211-4c5c-ae50-863b6a845d6f">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="f" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_c7aea758-14e5-4c59-82ce-17c913f5b312" label="2" n="2" xml:id="staff_dd296731-7211-4685-8520-6ffa3401d6b5">
