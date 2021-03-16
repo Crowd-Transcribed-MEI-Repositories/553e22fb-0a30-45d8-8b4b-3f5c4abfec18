@@ -170,6 +170,7 @@
 							<staff facs="#zone_df9e3ac5-dff1-4d83-b068-feba686074ae" label="1" n="1" xml:id="staff_10a28558-1643-4a9c-b222-c0566474122f">
 								<layer>
 									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_c1b28067-7894-4968-84c9-1806d637f08b" label="2" n="2" xml:id="staff_c8df2e09-2019-4fb0-b56b-42b1e0dd0957">
