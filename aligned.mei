@@ -867,7 +867,7 @@
 							</staff>
 							<staff facs="#zone_3d77cc86-df7f-4767-b6f8-746953bd3e9d" label="5" n="5" xml:id="staff_53c6438b-a0ec-415d-a503-6aeadeea9d51">
 								<layer>
-									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_2386d92d-5081-451f-ba24-955043dc2ec3" label="6" n="6" xml:id="staff_be11fbb3-b82a-4b2d-a171-05d8b655022d">
