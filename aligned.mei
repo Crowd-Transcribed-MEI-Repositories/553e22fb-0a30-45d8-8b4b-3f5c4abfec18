@@ -388,7 +388,16 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_2a17b7ee-8fae-479f-8ca7-cdf2d638ccf6" label="3" n="3" xml:id="staff_714dbb6e-7ba3-4750-ade6-58cb6ac8bea9">
-								<layer/>
+								<layer>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_0be6188f-d5ea-4f5c-912b-61be480d05e6" label="4" n="4" xml:id="staff_7441f6cf-e882-4895-a09a-bb1682047aba">
 								<layer/>
