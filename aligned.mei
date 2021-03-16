@@ -1064,11 +1064,11 @@
 							</staff>
 							<staff facs="#zone_38a49db1-70a5-4077-8c5c-86e71a8f6ff8" label="5" n="5" xml:id="staff_367de487-ae31-41ab-8639-40ffaccf0630">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_2a768866-34ba-4008-93d7-bd1d3f1f8b7d" label="6" n="6" xml:id="staff_5a8c2b51-a123-4d8c-9990-430f2d01cf37">
