@@ -728,7 +728,7 @@
 							</staff>
 							<staff facs="#zone_2c01449a-fe91-428b-b83c-ef54714d4ebb" label="6" n="6" xml:id="staff_a3b206db-bb10-45b6-98b7-388dfc17a684">
 								<layer>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 						</measure>
