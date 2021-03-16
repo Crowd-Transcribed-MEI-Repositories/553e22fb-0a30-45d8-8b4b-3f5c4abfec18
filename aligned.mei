@@ -681,7 +681,11 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_e272d211-9d2b-483e-bd7c-8d6db48ccd34" label="2" n="2" xml:id="staff_7c025a6d-eb6f-49bc-99a2-aa90c7852312">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_3bd43c49-aa03-4730-9e52-dfb076f84166" label="3" n="3" xml:id="staff_e8e3e06e-cb48-4ec1-b1cf-05bbc75a7c8d">
 								<layer/>
