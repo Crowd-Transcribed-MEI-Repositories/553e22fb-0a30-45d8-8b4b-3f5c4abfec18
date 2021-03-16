@@ -727,7 +727,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_2c01449a-fe91-428b-b83c-ef54714d4ebb" label="6" n="6" xml:id="staff_a3b206db-bb10-45b6-98b7-388dfc17a684">
-								<layer/>
+								<layer>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="11" n="11" xml:id="measure_7f39c41c-36fc-40dd-aa99-4fdf1c25ce57">
