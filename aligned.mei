@@ -944,7 +944,7 @@
 							</staff>
 							<staff facs="#zone_16616898-e083-4318-ac8d-9dacc51567f5" label="6" n="6" xml:id="staff_a1c94923-226a-47db-856e-796c856bc372">
 								<layer>
-									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 						</measure>
