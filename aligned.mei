@@ -910,7 +910,7 @@
 							</staff>
 							<staff facs="#zone_5bec85ee-0a34-4114-8b30-d3e8f4d77529" label="6" n="6" xml:id="staff_8b1cde30-3e69-4c37-808b-efdc5ef7a13a">
 								<layer>
-									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 						</measure>
