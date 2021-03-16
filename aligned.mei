@@ -1019,9 +1019,9 @@
 							</staff>
 							<staff facs="#zone_2b74b52a-f1cb-42c7-a965-1a95034875fb" label="6" n="6" xml:id="staff_8e960d2f-ac6e-44af-982f-0c78e99725d9">
 								<layer>
-									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 						</measure>
