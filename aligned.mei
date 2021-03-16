@@ -302,7 +302,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_9e4f32d0-77a1-4f47-8c92-86e885fcd5e9" label="6" n="6" xml:id="staff_9c2c3462-c3aa-44fa-ba9f-17c9c92207e0">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="4" n="4" xml:id="measure_4293eb8f-04d6-4daf-b6fd-1590dbf4860f">
