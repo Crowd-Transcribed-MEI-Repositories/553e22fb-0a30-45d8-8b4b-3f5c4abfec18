@@ -1018,7 +1018,11 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_2b74b52a-f1cb-42c7-a965-1a95034875fb" label="6" n="6" xml:id="staff_8e960d2f-ac6e-44af-982f-0c78e99725d9">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="19" n="19" xml:id="measure_1d10c233-352d-45a7-8882-ec1a84853f89">
