@@ -848,7 +848,13 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_6b884de7-e356-4345-b993-6032f5df9b37" label="3" n="3" xml:id="staff_37b3e245-12a5-4f54-89ed-91a4bd4e15d5">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_778a1785-6220-4acb-b02c-3ce19117ddee" label="4" n="4" xml:id="staff_98af6d37-881a-4e17-8c32-10b6ddac54ca">
 								<layer/>
