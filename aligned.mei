@@ -413,6 +413,12 @@
 							<staff facs="#zone_c2795321-bb95-441d-84ed-278b6cc76615" label="2" n="2" xml:id="staff_10852f8f-7a2d-452b-b9a1-94da9b485442">
 								<layer>
 									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_875663de-6f48-45a7-8621-e3055cc816dc" label="3" n="3" xml:id="staff_f28ed5bc-92d1-4d88-b189-aa0d80ab3832">
