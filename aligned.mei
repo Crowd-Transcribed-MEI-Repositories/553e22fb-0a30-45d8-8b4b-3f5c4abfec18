@@ -970,7 +970,7 @@
 							</staff>
 							<staff facs="#zone_f05f89ef-5d78-4811-a5f8-9b41dcc34c68" label="4" n="4" xml:id="staff_245486d3-f075-4635-ab56-2a702f664323">
 								<layer>
-									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_8585c8ef-9575-476a-9fcf-eed28ddbf230" label="5" n="5" xml:id="staff_005a7558-440b-4d8e-9b76-d23129506f6e">
