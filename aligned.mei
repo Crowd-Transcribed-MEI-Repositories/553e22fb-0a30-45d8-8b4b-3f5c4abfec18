@@ -980,7 +980,7 @@
 							</staff>
 							<staff facs="#zone_86e98924-b8c0-485d-a3c6-7b6361d743be" label="6" n="6" xml:id="staff_804f8e4d-9161-417f-968f-6deef5b26735">
 								<layer>
-									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 						</measure>
