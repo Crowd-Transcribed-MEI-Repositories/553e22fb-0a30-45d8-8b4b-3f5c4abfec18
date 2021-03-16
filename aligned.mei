@@ -845,9 +845,9 @@
 						<measure label="14" n="14" xml:id="measure_a14ce806-8ac7-4477-8aca-74793c589d57">
 							<staff facs="#zone_0c05ec44-e956-46b9-bf89-d783969966d8" label="1" n="1" xml:id="staff_d1e40252-9aac-45fc-bc9c-fac2e9bdc07d">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="f" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="undefined" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_0487d5c7-b6d9-4be4-9b7d-cb8f37acdabb" label="2" n="2" xml:id="staff_a641bfa8-8c1c-4dac-b862-0f6cda6486fa">
