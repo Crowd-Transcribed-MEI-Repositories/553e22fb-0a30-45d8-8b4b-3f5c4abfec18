@@ -581,7 +581,10 @@
 						</measure>
 						<measure label="18" n="18" xml:id="measure_49fcdced-75d8-47b1-a4b0-cb996064358a">
 							<staff facs="#zone_d24f1bf0-a1b4-4b76-9314-82728a3ad7a6" label="1" n="1" xml:id="staff_e0e39862-6294-4150-860b-7a7e53cf6b60">
-								<layer/>
+								<layer>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_e272d211-9d2b-483e-bd7c-8d6db48ccd34" label="2" n="2" xml:id="staff_7c025a6d-eb6f-49bc-99a2-aa90c7852312">
 								<layer/>
