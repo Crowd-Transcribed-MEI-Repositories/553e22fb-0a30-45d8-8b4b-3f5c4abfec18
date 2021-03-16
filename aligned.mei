@@ -203,7 +203,7 @@
 							<staff facs="#zone_3cdc7b36-e859-48c8-bad1-49b3c838600a" label="5" n="5" xml:id="staff_75f66732-b811-4034-97c5-e26a1f9831fd">
 								<layer>
 									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_c37e5ac3-5159-4cb9-9b3e-f4aa8bb3a561" label="6" n="6" xml:id="staff_a3a31af8-ddc5-4b62-aa05-d4487f463178">
