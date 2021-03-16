@@ -160,6 +160,7 @@
 						<measure label="10" n="10" xml:id="measure_998b37f1-c39a-4f81-84e9-187795a2b5dc"/>
 						<scoreDef>
 							<staffGrp>
+								<staffDef meter.sym="common" n="4"/>
 								<staffDef meter.count="3" meter.unit="4" n="3"/>
 								<staffDef meter.count="3" meter.unit="4" n="2"/>
 								<staffDef meter.count="3" meter.unit="4" n="1"/>
