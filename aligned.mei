@@ -387,6 +387,11 @@
 								<layer/>
 							</staff>
 						</measure>
+						<scoreDef>
+							<staffGrp>
+								<staffDef meter.count="3" meter.unit="4" n="1"/>
+							</staffGrp>
+						</scoreDef>
 						<measure label="11" n="11" xml:id="measure_03ab0da9-07ff-4b48-9f7f-74f085ee6ea0">
 							<staff facs="#zone_6ca119c8-6831-4696-9ff2-b74533546297" label="1" n="1" xml:id="staff_0b1d0661-9de5-47d1-a9a7-e8e320fe2686">
 								<layer/>
