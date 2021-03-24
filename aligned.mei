@@ -226,7 +226,15 @@
 						</measure>
 						<measure label="3" n="3" xml:id="measure_1eb6b283-3f55-47c4-a762-8c712d0cc9a6">
 							<staff facs="#zone_72be5a8c-99a4-4edf-9ebb-dd8f23efc375" label="1" n="1" xml:id="staff_713fd088-c2a5-4144-9d48-8a046ac98cfd">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_747d4a2b-dd78-4cdc-aafe-362a85569780" label="2" n="2" xml:id="staff_b7612f10-a244-4594-bce9-7e616c829767">
 								<layer/>
