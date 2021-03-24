@@ -215,10 +215,10 @@
 							<staff facs="#zone_02d17a78-0ccf-4c39-a77c-1540f3440930" label="6" n="6" xml:id="staff_d7118399-b5b5-4d76-85c4-55885540793e">
 								<layer>
 									<clef line="4" shape="F" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="2" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="1" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" oct="2" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="2" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 						</measure>
