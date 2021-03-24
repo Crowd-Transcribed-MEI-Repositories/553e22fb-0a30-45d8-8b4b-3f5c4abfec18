@@ -300,7 +300,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_089e51a9-cff0-497c-874d-fd4588a8dd63" label="5" n="5" xml:id="staff_138d16b2-72d1-45a5-aa62-8f1597eab7a0">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_e90cc58c-25ac-49dc-8b47-eb2c2665493d" label="6" n="6" xml:id="staff_167ffab7-6b13-4ef5-bbc8-3d7b4e4cd1d0">
 								<layer/>
