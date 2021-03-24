@@ -1109,11 +1109,11 @@
 						<measure label="20" n="20" xml:id="measure_6be51668-4535-43f1-930f-34b9b0520076">
 							<staff facs="#zone_cf691b7b-d17d-4c8b-95ec-6901d4d66d52" label="1" n="1" xml:id="staff_b586946c-80e5-4a52-baab-2ad1be74714a">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="f" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_6eff21cc-ad92-4d03-addf-39d982d8e9a1" label="2" n="2" xml:id="staff_dd12b33f-f6d0-4628-8a1a-ca893732b04d">
