@@ -666,7 +666,11 @@
 						</measure>
 						<measure label="17" n="17" xml:id="measure_b5dba8c3-7fb5-4e60-a648-43904dd65e1b">
 							<staff facs="#zone_09398099-cbf8-49da-bc7f-483f70cab920" label="1" n="1" xml:id="staff_ed32af21-ed67-4a41-a2af-14ca59e9e65d">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_bf5e79cb-255d-4e67-a5a5-69febe1d47ce" label="2" n="2" xml:id="staff_81d100fb-5563-4605-8b4b-87735012741d">
 								<layer/>
