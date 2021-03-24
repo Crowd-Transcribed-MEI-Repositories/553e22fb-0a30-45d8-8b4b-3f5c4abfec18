@@ -518,12 +518,12 @@
 						<measure label="7" n="7" xml:id="measure_20b9e830-7213-4315-997f-c2cfafa99c79">
 							<staff facs="#zone_e43d218f-b99d-4972-a11c-6064bc47f08f" label="1" n="1" xml:id="staff_2ac3fc11-3fcf-4e29-a988-9361b3c4627b">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="f" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_1c7cf509-8910-4442-b230-2e5d9c4c415e" label="2" n="2" xml:id="staff_ad34e936-8578-4793-8713-e47aeea9ec0f">
