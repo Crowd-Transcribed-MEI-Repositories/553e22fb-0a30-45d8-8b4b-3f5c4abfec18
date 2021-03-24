@@ -704,7 +704,15 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_933fed5f-f055-4409-9353-972009ef8648" label="6" n="6" xml:id="staff_052d2368-3f15-4299-bb4c-e7daa50906d1">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="10" n="10" xml:id="measure_8f9b5cdb-12a4-432d-8545-49515f0ba029">
