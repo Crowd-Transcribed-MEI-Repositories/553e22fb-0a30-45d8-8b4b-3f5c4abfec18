@@ -344,6 +344,12 @@
 							<staff facs="#zone_54ea6caf-d1f9-4752-9507-578ef54281ee" label="1" n="1" xml:id="staff_6c4351dd-1a55-41e2-afe5-1b90760dff94">
 								<layer>
 									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_4d845426-c947-4601-9f91-7ceea1f5c873" label="2" n="2" xml:id="staff_c3a775bb-29e5-4a29-abcd-91562bacbb53">
