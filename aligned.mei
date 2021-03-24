@@ -973,7 +973,13 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_0b50c05d-5766-4a20-8089-c2309208a059" label="4" n="4" xml:id="staff_9ba913af-189e-4104-bf92-e997e3726369">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_789dda5b-30e9-4cc4-8965-ff4bf8742083" label="5" n="5" xml:id="staff_79b8e1b5-28f5-43df-ac30-48ad1798afd3">
 								<layer/>
