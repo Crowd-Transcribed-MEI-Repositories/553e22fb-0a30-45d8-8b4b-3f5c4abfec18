@@ -775,7 +775,10 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_8aa9aa4d-e74f-4f69-a5c5-e5eec21993d8" label="3" n="3" xml:id="staff_f850ef47-de8d-4c8f-9a47-d8cc338a1c22">
-								<layer/>
+								<layer>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_45bd0bbc-3348-48a5-8c4c-201c37606232" label="4" n="4" xml:id="staff_f634e368-0f49-4a16-954a-3223525066ea">
 								<layer/>
