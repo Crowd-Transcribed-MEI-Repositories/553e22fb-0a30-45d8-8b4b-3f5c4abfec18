@@ -1071,11 +1071,11 @@
 							</staff>
 							<staff facs="#zone_9892efde-5a70-41f0-8137-67844a8d2f12" label="3" n="3" xml:id="staff_d19440ca-1995-448e-8c63-099473050811">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="6" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="6" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="6" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_095a880b-eec9-48a1-b426-41f25f3b9255" label="4" n="4" xml:id="staff_68d307fa-b4a3-40b5-bab0-578b1fe703f1">
