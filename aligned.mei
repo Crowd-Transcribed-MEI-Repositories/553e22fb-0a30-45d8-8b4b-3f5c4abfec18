@@ -261,7 +261,12 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_c1a48140-a7e6-4a97-abe8-832d89d4021d" label="6" n="6" xml:id="staff_6fdc98b2-8964-46f1-88bd-5d44156e35c0">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="3" n="3" xml:id="measure_1eb6b283-3f55-47c4-a762-8c712d0cc9a6">
