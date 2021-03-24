@@ -623,7 +623,15 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_40c41e8f-beb1-41a0-bab3-faf7d0c4f1a9" label="4" n="4" xml:id="staff_9048e7b1-b1f2-4b1d-9377-5976c14cece9">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_35313dd7-9521-40fa-b79e-f05f7e2af25c" label="5" n="5" xml:id="staff_4c517d40-03fa-494a-af03-5f7d90555057">
 								<layer/>
