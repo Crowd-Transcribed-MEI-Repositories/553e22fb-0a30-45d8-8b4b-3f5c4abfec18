@@ -282,7 +282,13 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_1b067afe-cebc-4c3e-948e-41f738242ad1" label="4" n="4" xml:id="staff_8f5a75a1-91ae-4a60-84e0-0db650784b1c">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_089e51a9-cff0-497c-874d-fd4588a8dd63" label="5" n="5" xml:id="staff_138d16b2-72d1-45a5-aa62-8f1597eab7a0">
 								<layer/>
