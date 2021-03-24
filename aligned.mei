@@ -188,10 +188,10 @@
 							<staff facs="#zone_245968e8-c20e-4f3c-89b5-0ca238ccce08" label="3" n="3" xml:id="staff_009b3f2c-a1bc-4b78-965c-fdb25cc84efd">
 								<layer>
 									<clef line="4" shape="F" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="3" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="2" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" oct="3" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="3" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_cb020ea8-83fe-4bcf-96db-04b9ab9f69fc" label="4" n="4" xml:id="staff_ca7455a8-79b0-4cfc-b70b-345a0e38fcd8">
