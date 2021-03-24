@@ -238,10 +238,10 @@
 							</staff>
 							<staff facs="#zone_28ffdfd6-ab1b-40e9-b242-7b1bf2f37a4c" label="3" n="3" xml:id="staff_2eb3d134-d53e-49c6-981f-32fa01da29c2">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="3" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" oct="3" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="3" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_c6ead6e1-35b2-40cb-ab47-edee0ef538d1" label="4" n="4" xml:id="staff_8abdce2d-a3a6-43e8-9c82-2e1ca823baab">
