@@ -942,9 +942,9 @@
 						<measure label="16" n="16" xml:id="measure_e29f2e66-ebd2-4445-8c78-94a4a4380972">
 							<staff facs="#zone_9b4793cd-b878-43ee-9293-6579394c61e6" label="1" n="1" xml:id="staff_d026db50-676b-40a4-b83d-e015168f6772">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_00e8b4d4-70d7-488d-b38f-9cf239fe9f5b" label="2" n="2" xml:id="staff_71fae644-5e75-492c-9380-26871dab7112">
