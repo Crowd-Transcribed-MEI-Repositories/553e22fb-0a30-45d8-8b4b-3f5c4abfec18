@@ -472,7 +472,15 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_82c59416-f74b-4024-87b9-efa701fe9a37" label="5" n="5" xml:id="staff_795716c6-ac08-48a9-a0cc-57ae5d661ad4">
-								<layer/>
+								<layer>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_dba61691-f713-40fe-b9fe-5a2f96c19458" label="6" n="6" xml:id="staff_6d31716a-ab6c-4cb7-bb44-9a0219aa2be2">
 								<layer/>
