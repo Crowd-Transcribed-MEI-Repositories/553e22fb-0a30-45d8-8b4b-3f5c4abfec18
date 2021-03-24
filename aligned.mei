@@ -690,7 +690,10 @@
 						</measure>
 						<measure label="18" n="18" xml:id="measure_41590f9c-a4af-4ff5-8285-e9151ac6019a">
 							<staff facs="#zone_58870f9a-905e-40e7-ab65-830321bbdbfd" label="1" n="1" xml:id="staff_8b10a3f6-018d-4550-a16c-811e36d90eaf">
-								<layer/>
+								<layer>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_dd5fe2aa-d95c-4335-9832-ec56219a4bef" label="2" n="2" xml:id="staff_9ff851a4-0f78-4aaa-aa54-4240074f3cd4">
 								<layer/>
