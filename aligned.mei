@@ -200,7 +200,9 @@
 						</measure>
 						<measure label="2" n="2" xml:id="measure_4709a0b6-559e-409f-a180-a22b12a451ed">
 							<staff facs="#zone_f8ece26c-3986-41c3-8afb-54083c83691d" label="1" n="1" xml:id="staff_e3c3ce6f-1507-4db1-84b9-44fb2379be6b">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_7bc09bdb-df07-49d6-94ec-868096b08e95" label="2" n="2" xml:id="staff_0a2e20f9-70b8-4955-a73a-deed9a57b9e4">
 								<layer/>
