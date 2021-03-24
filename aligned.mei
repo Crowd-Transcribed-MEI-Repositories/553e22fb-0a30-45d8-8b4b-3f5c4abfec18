@@ -1054,7 +1054,13 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_789dda5b-30e9-4cc4-8965-ff4bf8742083" label="5" n="5" xml:id="staff_79b8e1b5-28f5-43df-ac30-48ad1798afd3">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_34ee3bd9-7e47-44c1-a24a-0a56bd52585d" label="6" n="6" xml:id="staff_99ef4312-dfbf-4dca-a5d8-9efaf2b5fc6a">
 								<layer/>
