@@ -983,8 +983,8 @@
 							</staff>
 							<staff facs="#zone_bf5e79cb-255d-4e67-a5a5-69febe1d47ce" label="2" n="2" xml:id="staff_81d100fb-5563-4605-8b4b-87735012741d">
 								<layer>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="4" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_8aa9aa4d-e74f-4f69-a5c5-e5eec21993d8" label="3" n="3" xml:id="staff_f850ef47-de8d-4c8f-9a47-d8cc338a1c22">
