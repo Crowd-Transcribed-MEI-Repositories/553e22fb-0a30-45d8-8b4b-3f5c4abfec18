@@ -440,7 +440,9 @@
 						</measure>
 						<measure label="10" n="10" xml:id="measure_8f9b5cdb-12a4-432d-8545-49515f0ba029">
 							<staff facs="#zone_79c15812-4f9d-4509-86dc-a15360747184" label="1" n="1" xml:id="staff_466a0a04-8a3f-4921-9b32-383a3ff3f88d">
-								<layer/>
+								<layer>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_1bed08b4-302b-428a-8fd7-8ee0a83040dd" label="2" n="2" xml:id="staff_efb7072d-7046-4d75-ad90-6af48b01e25b">
 								<layer/>
