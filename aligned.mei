@@ -470,14 +470,14 @@
 							</staff>
 							<staff facs="#zone_a830b6ab-73cd-4b40-a9b1-cb62413993ac" label="3" n="3" xml:id="staff_2c5b2e6e-4eea-4d59-8430-9f7cde8ed903">
 								<layer>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note accid="f" dots="0" dur="8" oct="4" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note accid="n" dots="0" dur="8" oct="3" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note accid="n" dots="0" dur="8" oct="4" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_6fb20d0b-2315-47a2-9689-9346358f2134" label="4" n="4" xml:id="staff_094b4797-db3c-43ff-bbe6-b0f1e2314e2f">
