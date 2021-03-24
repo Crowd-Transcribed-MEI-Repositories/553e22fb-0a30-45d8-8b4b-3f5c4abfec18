@@ -631,7 +631,13 @@
 						</measure>
 						<measure label="19" n="19" xml:id="measure_be9e9bf2-810d-484a-bd82-abbf97c9d692">
 							<staff facs="#zone_0509f5f0-bb13-47f3-8cd9-e1921b5962e6" label="1" n="1" xml:id="staff_4a9dc362-2f52-45bc-8de4-e110e6a1615c">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_76264fdf-e471-45fb-84d7-d8e327f9a8f3" label="2" n="2" xml:id="staff_1e4159fe-9c97-4af5-b186-2a05edb0cda0">
 								<layer/>
