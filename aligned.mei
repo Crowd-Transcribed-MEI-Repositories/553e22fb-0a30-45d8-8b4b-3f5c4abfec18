@@ -538,7 +538,10 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_c0c0f5ec-a294-4242-b078-4d69e41cfd9e" label="2" n="2" xml:id="staff_09ce8237-9e33-47f9-8ad3-5a021a68a702">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_7fec556e-13a8-4ae2-8d2f-24dae1cdff7b" label="3" n="3" xml:id="staff_cc199b1a-bced-44eb-a070-9c186baa3332">
 								<layer/>
