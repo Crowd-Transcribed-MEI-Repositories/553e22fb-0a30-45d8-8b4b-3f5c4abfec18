@@ -618,7 +618,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_0dc011dd-2e72-47d6-91b6-7e8d9555b4f2" label="4" n="4" xml:id="staff_28f26805-71be-4245-a200-c134b691886e">
-								<layer/>
+								<layer>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_15684662-ea3b-44d5-879a-1a48b600ccd2" label="5" n="5" xml:id="staff_95752e49-24a0-4d85-adfb-62e8942bfdd6">
 								<layer/>
