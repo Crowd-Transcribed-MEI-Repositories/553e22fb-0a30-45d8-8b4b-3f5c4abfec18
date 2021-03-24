@@ -742,7 +742,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_31dde2f5-f396-4bdd-83b3-d2c114c34ac4" label="6" n="6" xml:id="staff_5fd435ce-9168-4114-9853-cdd9bef5926c">
-								<layer/>
+								<layer>
+									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<scoreDef>
