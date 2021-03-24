@@ -798,11 +798,11 @@
 						<measure label="12" n="12" xml:id="measure_4efddb04-f0d2-42db-a1f7-bc686a498a93">
 							<staff facs="#zone_ced20a60-594f-4fc6-affb-f16ddf077280" label="1" n="1" xml:id="staff_20ce7034-baaf-4537-ac25-69ff296e8086">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="f" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_6ae75aff-b1e7-439f-b862-e6a609f7eb5e" label="2" n="2" xml:id="staff_395465e9-c430-4e4f-b612-d2204e2f98c5">
