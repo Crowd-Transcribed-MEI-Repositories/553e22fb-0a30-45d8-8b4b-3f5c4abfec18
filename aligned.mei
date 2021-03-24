@@ -1154,11 +1154,11 @@
 							</staff>
 							<staff facs="#zone_34ee3bd9-7e47-44c1-a24a-0a56bd52585d" label="6" n="6" xml:id="staff_99ef4312-dfbf-4dca-a5d8-9efaf2b5fc6a">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="3" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 						</measure>
