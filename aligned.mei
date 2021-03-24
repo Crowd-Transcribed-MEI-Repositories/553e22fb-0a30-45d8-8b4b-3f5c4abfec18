@@ -543,7 +543,11 @@
 						</measure>
 						<measure label="15" n="15" xml:id="measure_800ce635-e83e-4c0a-ac3c-8f9bbf834b17">
 							<staff facs="#zone_a89004e1-34cd-4f86-8dee-6a0cc23cfb66" label="1" n="1" xml:id="staff_ba11a630-3c9d-434b-82fc-c5cb725a4462">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_b30df84a-71e9-4d9e-9848-c0e0bfdbfc4e" label="2" n="2" xml:id="staff_a1824188-232c-4797-b391-7df6eb999286">
 								<layer/>
