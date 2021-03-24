@@ -519,7 +519,11 @@
 						</measure>
 						<measure label="14" n="14" xml:id="measure_8e27d57a-036b-474b-b49a-ae2e4b26dc5c">
 							<staff facs="#zone_39fd2f04-7dbd-4cc7-8882-cd6a7dfb0eee" label="1" n="1" xml:id="staff_d82cd00e-bc27-4024-9d96-c836c20d5063">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_1e685259-40da-480a-85dd-cb9b86ec9894" label="2" n="2" xml:id="staff_01c89244-9d60-4e27-9ce6-f80b11d8f807">
 								<layer/>
