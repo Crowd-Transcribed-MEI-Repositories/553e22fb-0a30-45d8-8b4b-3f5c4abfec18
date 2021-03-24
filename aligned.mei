@@ -471,7 +471,11 @@
 						</scoreDef>
 						<measure label="11" n="11" xml:id="measure_03ab0da9-07ff-4b48-9f7f-74f085ee6ea0">
 							<staff facs="#zone_6ca119c8-6831-4696-9ff2-b74533546297" label="1" n="1" xml:id="staff_0b1d0661-9de5-47d1-a9a7-e8e320fe2686">
-								<layer/>
+								<layer>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_c0c0f5ec-a294-4242-b078-4d69e41cfd9e" label="2" n="2" xml:id="staff_09ce8237-9e33-47f9-8ad3-5a021a68a702">
 								<layer/>
