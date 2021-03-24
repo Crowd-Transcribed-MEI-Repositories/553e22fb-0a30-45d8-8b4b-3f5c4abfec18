@@ -1098,11 +1098,11 @@
 							</staff>
 							<staff facs="#zone_cb90f7b0-c971-4ea0-bfd6-bce63ae1c27e" label="6" n="6" xml:id="staff_a287bf5c-9828-421e-9c46-cddf808a4e3d">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="4" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="4" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="4" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 						</measure>
