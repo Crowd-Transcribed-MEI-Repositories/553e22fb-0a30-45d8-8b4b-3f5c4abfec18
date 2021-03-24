@@ -550,7 +550,7 @@
 							</staff>
 							<staff facs="#zone_6990c894-0dfe-466f-a2c9-429ce3292ad5" label="4" n="4" xml:id="staff_c5cedfbb-8c07-45db-9b30-fce89571a72d">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="2" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
