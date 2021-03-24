@@ -293,10 +293,10 @@
 							<staff facs="#zone_36b6dc96-6765-40d3-8acb-f36886f52218" label="3" n="3" xml:id="staff_7ad88b09-56db-4a80-b68b-4ecf06473543">
 								<layer>
 									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="4" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_1b067afe-cebc-4c3e-948e-41f738242ad1" label="4" n="4" xml:id="staff_8f5a75a1-91ae-4a60-84e0-0db650784b1c">
