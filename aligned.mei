@@ -919,8 +919,8 @@
 							<staff facs="#zone_71bdf40c-85f4-4e4e-b10f-5adc98f9e94c" label="3" n="3" xml:id="staff_8ff8643d-bd20-457c-a6a3-8679b3cc8e6b">
 								<layer>
 									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_a8b00979-f79b-400b-80d6-0004fa9df963" label="4" n="4" xml:id="staff_732ac6d9-3a21-4245-9120-6fc469e4004c">
