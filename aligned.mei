@@ -800,7 +800,11 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_54839fd5-ec07-45a6-872d-f6d1707edd03" label="3" n="3" xml:id="staff_6df3bb18-b61d-4d43-b6f4-7920abcb0693">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_ffb222ff-9309-4821-81c2-bc22b731007c" label="4" n="4" xml:id="staff_dd730433-90c9-4f57-89c2-29c0d7bebae4">
 								<layer/>
