@@ -206,10 +206,10 @@
 							<staff facs="#zone_0a3fa7e6-706f-49dd-a6f5-6ade1c751617" label="5" n="5" xml:id="staff_dc4edcda-3532-414b-9c42-82b1fc280a6c">
 								<layer>
 									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="16" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="4" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="5" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_02d17a78-0ccf-4c39-a77c-1540f3440930" label="6" n="6" xml:id="staff_d7118399-b5b5-4d76-85c4-55885540793e">
