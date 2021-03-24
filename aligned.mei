@@ -870,7 +870,7 @@
 						<measure label="14" n="14" xml:id="measure_8e27d57a-036b-474b-b49a-ae2e4b26dc5c">
 							<staff facs="#zone_39fd2f04-7dbd-4cc7-8882-cd6a7dfb0eee" label="1" n="1" xml:id="staff_d82cd00e-bc27-4024-9d96-c836c20d5063">
 								<layer>
-									<note dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="f" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
 									<rest dots="0" dur="4" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
