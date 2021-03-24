@@ -723,7 +723,7 @@
 							</staff>
 							<staff facs="#zone_1bed08b4-302b-428a-8fd7-8ee0a83040dd" label="2" n="2" xml:id="staff_efb7072d-7046-4d75-ad90-6af48b01e25b">
 								<layer>
-									<note dots="0" dur="2" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_9f8cba61-6875-4cc1-a8c2-a3d046e73794" label="3" n="3" xml:id="staff_7b618383-0b23-47e2-a96d-e67522cddf73">
